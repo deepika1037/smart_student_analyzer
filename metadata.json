@@ -1,0 +1,5 @@
+{
+  "name": "AI Student Performance Predictor",
+  "description": "Predict student performance using AI and notify parents automatically.",
+  "requestFramePermissions": []
+}
